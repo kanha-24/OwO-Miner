@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⛏️ OwO Minewatch
+# ⛏️ OwO Miner
 
 **A Discord bot that tracks mine game rounds played against the OwO bot — logs bomb positions, click sequences, and builds statistical heatmaps.**
 
